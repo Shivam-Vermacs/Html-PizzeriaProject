@@ -3,9 +3,8 @@
 
 Table of Contents 
 
-Introduction
-
-Usage
+1)Introduction
+2)Usage
 
 Introduction
 
