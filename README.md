@@ -20,11 +20,16 @@ Timing: Links to a Separate Timing Page which has Pizzeria Hours.
 
 Feel free to explore the code and use it as a starting point for your own HTML projects.
 
+
+
+
 Usage
 
 To use this project, simply clone the repository to your local machine:
 
 You can then open the index.html file in a web browser to view the Pepperoni Pizzeria website.
+
+
 
 Contributing
 
@@ -39,5 +44,7 @@ Make your changes and commit them (git commit -am 'Add your feature')
 Push to the branch (git push origin feature/your-feature)
 
 Open a pull request
+
+
 
 Thank you for checking out my HTML project! If you have any questions or suggestions, feel free to contact me. Happy coding! 🍕
