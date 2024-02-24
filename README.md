@@ -1,7 +1,8 @@
 # Html-PizzeriaProject
-#This repository contains a small HTML project that I created to get familiar with HTML. The project is a simple website for "Pepperoni Pizzeria(Fictional)," showcasing a fictional pizzeria with an introduction, menu, and contact information.
+# This repository contains a small HTML project that I created to get familiar with HTML. The project is a simple website for "Pepperoni Pizzeria(Fictional)," showcasing a fictional pizzeria with an introduction, menu, and contact information.
 
-Table of Contents
+Table of Contents 
+
 Introduction
 Usage
 
